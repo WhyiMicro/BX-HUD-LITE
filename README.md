@@ -1,8 +1,8 @@
 
 <img align="right" alt="Caveclient logo" width="100" src="https://i.imgur.com/zgwWtnd.png">
 
-# Caveclient
-A better [TF2](https://store.steampowered.com/app/440/Team_Fortress_2/) experience!
+# BX HUD LITE
+A modified version of [BX HUD](https://huds.tf/site/s-Bx-Hud).
 
 ## Installation, Customization, etc
 For guides on installation & customization, please visit the [wiki](https://github.com/tf2iMicro/caveclient/wiki).
