@@ -4,8 +4,8 @@
 # BX HUD LITE
 A modified version of [BX HUD](https://huds.tf/site/s-Bx-Hud).
 
-## Installation, Customization, etc
-For guides on installation & customization, please visit the [wiki](https://github.com/tf2iMicro/caveclient/wiki).
+## Installation
+Download the code as a `.zip` file, then just extract the `.zip` file and drag it into your `tf\custom` folder.
 
 ### Notes Regarding Caveclient Customization
 - When adding custom commands, or changing features in the menu, you should have a clue of how it all works. Read more about that on the wiki.
