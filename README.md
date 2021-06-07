@@ -3,7 +3,13 @@
 
 # BX HUD LITE
 A modified version of [BX HUD](https://huds.tf/site/s-Bx-Hud).
-
+## What's New?
+- Main Changes
+  - Changed Positions
+  - Removed health background
+  - Changed scripts
+- Small Changes
+  - Removed health blinking
 ## Installation
 1. Download via releases
 Press `code`, then press `Download ZIP`, now, simply extract the `.zip` file and drag the context into your `tf\custom` folder.
