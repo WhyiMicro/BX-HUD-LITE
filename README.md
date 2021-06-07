@@ -14,7 +14,8 @@ A modified version of [BX HUD](https://huds.tf/site/s-Bx-Hud).
   - Moved killstreak & charge meters
 ## Installation
 1. Download via releases
-Press `code`, then press `Download ZIP`, now, simply extract the `.zip` file and drag the context into your `tf\custom` folder.
+Goto [`releases`](https://github.com/tf2iMicro/BX-HUD-LITE/releases/), then find `BX-Hud-Lite-Master.zip
+`. Press it to download it. Once it's done downloading, simply extract the `.zip` file and drag the context into your `tf\custom` folder.
 2. Download via source code
 Press `code`, then press `Download ZIP`, now, simply extract the `.zip` file and drag the context into your `tf\custom` folder.
 ### Notes Regarding The Hud
