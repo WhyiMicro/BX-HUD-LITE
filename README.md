@@ -5,17 +5,18 @@
 A modified version of [BX HUD](https://huds.tf/site/s-Bx-Hud).
 
 ## Installation
-Download the code as a `.zip` file, then just extract the `.zip` file and drag it into your `tf\custom` folder.
-
-### Notes Regarding Caveclient Customization
-- When adding custom commands, or changing features in the menu, you should have a clue of how it all works. Read more about that on the wiki.
-- Due to my lack of experience, this menu isn't fully optimized. Something that can result in fps drop while using the menu. However, if you keep the menu closed when you're not using it, there shouldn't be any problems. I'm still working on optimizing it to it's fullest extent!
-
+1. Download via releases
+Press `code`, then press `Download ZIP`, now, simply extract the `.zip` file and drag the context into your `tf\custom` folder.
+2. Download via source code
+Press `code`, then press `Download ZIP`, now, simply extract the `.zip` file and drag the context into your `tf\custom` folder.
+### Notes Regarding The Hud
+- As far as I know, this only works on 16:9, but I'm almost certain it works on other resolutions.
+- If you find a bug or have something you want to add, please let us know.
 ## Links:
 * [Discord](https://discord.gg/RfgA6wqzZP)
-* [Screenshots](https://imgur.com/a/dsjLWsd)
-* [Steam](https://steamcommunity.com/profiles/76561198344765754)
+* [Screenshots]()
+* [Releases](https://github.com/tf2iMicro/BX-HUD-LITE/releases)
 
 ## Credits
-* iMicro - Creator
-* Disquse - Inspiration & help
+* [iMicro](https://steamcommunity.com/id/tf2iMicro) - Creator
+* [boobsy](https://steamcommunity.com/id/bo0bsy) - Co-Creator
