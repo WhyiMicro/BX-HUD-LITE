@@ -22,7 +22,7 @@ Press `code`, then press `Download ZIP`, now, simply extract the `.zip` file and
 - If you find a bug or have something you want to add, please let us know.
 ## Links:
 * [Discord](https://discord.gg/RfgA6wqzZP)
-* [Screenshots]()
+* [Screenshots](https://imgur.com/a/9k3Rrys)
 * [Releases](https://github.com/tf2iMicro/BX-HUD-LITE/releases)
 
 ## Credits
