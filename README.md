@@ -5,11 +5,13 @@
 A modified version of [BX HUD](https://huds.tf/site/s-Bx-Hud).
 ## What's New?
 - Main Changes
-  - Changed Positions
+  - Changed positions of health and ammo
   - Removed health background
   - Changed scripts
+  - Changed match status
 - Small Changes
   - Removed health blinking
+  - Moved killstreak & charge meters
 ## Installation
 1. Download via releases
 Press `code`, then press `Download ZIP`, now, simply extract the `.zip` file and drag the context into your `tf\custom` folder.
