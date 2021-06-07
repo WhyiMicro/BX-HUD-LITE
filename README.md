@@ -25,6 +25,7 @@ A modified version of [BX HUD](https://huds.tf/site/s-Bx-Hud).
 * [Discord](https://discord.gg/RfgA6wqzZP)
 * [Screenshots](https://imgur.com/a/9k3Rrys)
 * [Releases](https://github.com/tf2iMicro/BX-HUD-LITE/releases)
+* [BX Hud](https://huds.tf/site/s-Bx-Hud)
 
 ## Credits
 * [iMicro](https://steamcommunity.com/id/tf2iMicro) - Creator
